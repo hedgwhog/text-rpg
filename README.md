@@ -36,4 +36,5 @@ I am trying to use AI as little as possible, but I want to release updates often
 
 ## Credits
 Developer: [Hedgwhog](https://github.com/hedgwhog)
-OST producer: [SilteTheFloof](https://github.com/siltefluff-glitch)
+
+Music producer: [SilteTheFloof](https://github.com/siltefluff-glitch)
